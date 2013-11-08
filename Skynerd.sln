@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Skynerd", "Skynerd\Skynerd.fsproj", "{2DAAA703-2A87-4A91-822A-272A1F76220A}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Skynerd.Console", "Skynerd.Console\Skynerd.Console.fsproj", "{958BEFF8-D836-4EC3-B5C3-DB710F17524B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DAAA703-2A87-4A91-822A-272A1F76220A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DAAA703-2A87-4A91-822A-272A1F76220A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DAAA703-2A87-4A91-822A-272A1F76220A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DAAA703-2A87-4A91-822A-272A1F76220A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{958BEFF8-D836-4EC3-B5C3-DB710F17524B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{958BEFF8-D836-4EC3-B5C3-DB710F17524B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{958BEFF8-D836-4EC3-B5C3-DB710F17524B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{958BEFF8-D836-4EC3-B5C3-DB710F17524B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
